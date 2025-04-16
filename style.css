@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(163, 163, 221);
+
+}
+main{
+    width: 600px;
+    text-align: center;
+    background-color: white;
+    
+}
